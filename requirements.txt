@@ -1,0 +1,7 @@
+clip
+numpy
+panda
+torch
+torchvision
+tqdm
+yacs
